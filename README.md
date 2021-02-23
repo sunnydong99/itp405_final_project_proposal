@@ -14,4 +14,4 @@ Sunny Dong
 - Delete available to only admin, or only for certain aspects such as the playlist in the class example music-app - not sure yet
 
 ### Additional features  
-- I plan to build the bookmarks/favorites system suggested in the final project instruction. }
+- I plan to build the bookmarks/favorites system suggested in the final project instruction.
