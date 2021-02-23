@@ -9,7 +9,7 @@
 Sunny Dong\
 \
 ### Goal  \
-- I plan to make a website based on a K-pop artist database that I\'92ve worked with in the past. The goal is to create an interactive K-pop database that allows users to explore the type of idols by their active years, whether they\'92re in a group, and agencies.\
+- I plan to make a website based on a [K-pop artist database](https://www.kaggle.com/kimjihoo/kpopdb) that I\'92ve worked with in the past. The goal is to create an interactive K-pop database that allows users to explore the type of idols by their active years, whether they\'92re in a group, and agencies.\
 \
 ### Primary audience  \
 - Anyone interested in K-pop idols.\
